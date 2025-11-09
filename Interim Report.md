@@ -1,5 +1,4 @@
-# CDE4301 Final Year Project 25/26
-  VR 403 - Postpartum Hemorrhage
+# CDE4301 FYP - VR 403 Postpartum Hemorrhage
 
 ## Abstract (177 words)
 
