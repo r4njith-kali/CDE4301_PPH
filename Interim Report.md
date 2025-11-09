@@ -216,7 +216,7 @@ This step is the most crucial in the finalisation of our solution as it guarante
 
 ### 6.2 Gantt Chart (appendix ?)
 
-![Gantt Chart Placeholder][image1]
+![Project Gantt Chart](assets/images/gantt_chart.jpg)
 
 ---
 
